@@ -1,9 +1,7 @@
-
-
 body {
     background-color: #1D4221;
     color: white;
-    font-family: "New Amsterdam", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,5 +12,12 @@ body {
 button {
     background-color: #64A712;
     color: white;
-    font-family: "New Amsterdam", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo{
+display: none;
+}
+.passo.ativo{
+display: block;   
 }
